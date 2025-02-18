@@ -1,5 +1,3 @@
-# authentication-typescript
-This repository provides a secure authentication system using Node.js, JSON Web Tokens (JWT), React, and TypeScript. It includes user registration, login, authentication middleware, and token-based authorization.
 # Authentication System using Node.js, JWT, React, and TypeScript
 
 This repository provides a secure authentication system using **Node.js**, **JSON Web Tokens (JWT)**, **React**, and **TypeScript**. It includes user registration, login, authentication middleware, and token-based authorization.
